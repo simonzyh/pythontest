@@ -33,8 +33,6 @@ user4=[(11,2),(12,4),(3,8)]
 ##print(getCosDist(user1,user2))
 ##print(getCosDist(user1,user3))
 print(getCosDist(user1,user4))
-
-
 f = open("/Users/yehua.zyh/Downloads/store.txt", "r")
 contents = f.readlines()
 
