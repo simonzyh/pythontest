@@ -37,7 +37,7 @@ fun1()
 
 print(num)
 
-a = set(['abracadabra','123'])
+a = set(['abracadabra', '123'])
 
 for i in a:
     print(i)

@@ -13,7 +13,7 @@ serversocket = socket.socket(
 host = socket.gethostname()
 
 port = 9999
-print((host,port))
+print((host, port))
 # 绑定端口
 serversocket.bind((host, port))
 

@@ -39,5 +39,5 @@ print(random.choice([1, 2, 3]))
 
 print(random.choice([1, 2, 3]))
 
-for i,j in  enumerate('123456'):
-    print(str(i) +" "+j)
+for i, j in enumerate('123456'):
+    print(str(i) + " " + j)

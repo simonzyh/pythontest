@@ -18,7 +18,6 @@ pickle.dump(selfref_list, output, -1)
 
 output.close()
 
-
 pkl_file = open('data.pkl', 'rb')
 
 data1 = pickle.load(pkl_file)

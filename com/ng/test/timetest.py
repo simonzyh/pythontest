@@ -5,10 +5,10 @@ import calendar
 import queue
 
 ticks = time.time()
-print ("当前时间戳为:", ticks)
+print("当前时间戳为:", ticks)
 
 localtime = time.localtime(time.time())
-print ("本地时间为 :", localtime)
+print("本地时间为 :", localtime)
 
 # 格式化成2016-03-20 11:45:39形式
 print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
@@ -20,17 +20,15 @@ print(time.strftime("%a %b %d %H:%M:%S %Y", time.localtime()))
 a = "Sat Mar 28 22:24:24 2016"
 print(time.mktime(time.strptime(a, "%a %b %d %H:%M:%S %Y")))
 
-
-
 cal = calendar.month(2016, 1)
-print ("以下输出2016年1月份的日历:")
-print (cal)
+print("以下输出2016年1月份的日历:")
+print(cal)
 
 print(dir(queue))
 
 print(hex(12))
 
-b=divmod(7, 2)
+b = divmod(7, 2)
 print(type(b))
 
 
@@ -52,6 +50,7 @@ class C(object):
 
     x = property(getx, setx, delx, "I'm the 'x' property.")
 
-c=C();
+
+c = C();
 
 c.x;

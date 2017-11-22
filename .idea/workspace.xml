@@ -3,7 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="f524a0fe-c55b-4151-96a0-3fcbbef6d0e0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/threadtest/QueueTest.py" afterPath="$PROJECT_DIR$/com/ng/test/threadtest/QueueTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/DataTest.py" afterPath="$PROJECT_DIR$/com/ng/test/DataTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/array_test.py" afterPath="$PROJECT_DIR$/com/ng/test/array_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/classtest.py" afterPath="$PROJECT_DIR$/com/ng/test/classtest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/datetimetest.py" afterPath="$PROJECT_DIR$/com/ng/test/datetimetest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/fun_test.py" afterPath="$PROJECT_DIR$/com/ng/test/fun_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/inputoutput/file_test.py" afterPath="$PROJECT_DIR$/com/ng/test/inputoutput/file_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/inputoutput/format_test.py" afterPath="$PROJECT_DIR$/com/ng/test/inputoutput/format_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/inputoutput/serializable.py" afterPath="$PROJECT_DIR$/com/ng/test/inputoutput/serializable.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/inputoutput/url_test.py" afterPath="$PROJECT_DIR$/com/ng/test/inputoutput/url_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/m/__init__.py" afterPath="$PROJECT_DIR$/com/ng/test/m/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/m/m1.py" afterPath="$PROJECT_DIR$/com/ng/test/m/m1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/m/m2.py" afterPath="$PROJECT_DIR$/com/ng/test/m/m2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/m/m3.py" afterPath="$PROJECT_DIR$/com/ng/test/m/m3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/m/m4.py" afterPath="$PROJECT_DIR$/com/ng/test/m/m4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/socket/ClientTest.py" afterPath="$PROJECT_DIR$/com/ng/test/socket/ClientTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/socket/ServerTest.py" afterPath="$PROJECT_DIR$/com/ng/test/socket/ServerTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/threadtest/ThreadExec.py" afterPath="$PROJECT_DIR$/com/ng/test/threadtest/ThreadExec.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/threadtest/ThreadTest.py" afterPath="$PROJECT_DIR$/com/ng/test/threadtest/ThreadTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/threadtest/ThreadingTest.py" afterPath="$PROJECT_DIR$/com/ng/test/threadtest/ThreadingTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/threadtest/__init__.py" afterPath="$PROJECT_DIR$/com/ng/test/threadtest/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/timetest.py" afterPath="$PROJECT_DIR$/com/ng/test/timetest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/ng/test/zlibtest.py" afterPath="$PROJECT_DIR$/com/ng/test/zlibtest.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/com/ng/test/m/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/com/ng/test/threadtest/ThreadTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <element signature="e#19#65#0" expanded="true" />
               </folding>
@@ -77,8 +98,8 @@
       <file leaf-file-name="QueueTest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/ng/test/threadtest/QueueTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="374">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
               <folding>
                 <element signature="e#20#32#0" expanded="true" />
               </folding>
@@ -90,7 +111,7 @@
         <entry file="file://$PROJECT_DIR$/com/ng/test/timetest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="56" column="4" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+              <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
               <folding>
                 <element signature="e#20#44#0" expanded="true" />
               </folding>
@@ -658,7 +679,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511338717327</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="testadd">
+      <created>1511339829133</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1511339829133</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -694,15 +722,16 @@
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18669528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38543046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24900663" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18669528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3089431" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -711,7 +740,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -818,6 +846,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -825,6 +854,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -992,7 +1022,7 @@
     <entry file="file://$PROJECT_DIR$/com/ng/test/m/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1026,7 +1056,7 @@
     <entry file="file://$PROJECT_DIR$/com/ng/test/threadtest/ThreadTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="e#19#65#0" expanded="true" />
           </folding>
@@ -1112,7 +1142,7 @@
     <entry file="file://$PROJECT_DIR$/com/ng/test/timetest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="56" column="4" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+          <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
           <folding>
             <element signature="e#20#44#0" expanded="true" />
           </folding>
@@ -1129,8 +1159,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/ng/test/threadtest/QueueTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="374">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
           <folding>
             <element signature="e#20#32#0" expanded="true" />
           </folding>
