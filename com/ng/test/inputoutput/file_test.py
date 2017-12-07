@@ -34,19 +34,12 @@ user4 = [(11, 2), (12, 4), (3, 8)]
 
 ##print(getCosDist(user1,user2))
 ##print(getCosDist(user1,user3))
-print(getCosDist(user1, user4))
-f = open("/Users/yehua.zyh/Downloads/store.txt", "r")
+#print(getCosDist(user1, user4))
+f = open("/Users/yehua.zyh/Documents/js.txt", "r")
 contents = f.readlines()
 
-print(contents)
 
-store = {}
 
 for line in contents:
-    s = line.replace("\n", "").split("\t");
-    if (s[1] not in store):
-        store[s[1]] = [s[0]]
-    else:
-        store[s[1]].append(s[0])
-
-print(store)
+    s = line.replace("\n","").split("-");
+    print(s[3]);
