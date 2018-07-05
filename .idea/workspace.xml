@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f524a0fe-c55b-4151-96a0-3fcbbef6d0e0" name="Default" comment="testadd">
-      <change afterPath="$PROJECT_DIR$/com/ng/test/testtl.py" afterDir="false" />
+    <list default="true" id="f524a0fe-c55b-4151-96a0-3fcbbef6d0e0" name="Default" comment="testtl">
+      <change beforePath="$PROJECT_DIR$/.idea/helloworld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/helloworld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/ng/test/inputoutput/url_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/ng/test/inputoutput/url_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/ng/test/errer.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/ng/test/errertest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/ng/test/socket/ClientTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/ng/test/sockettest/ClientTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/ng/test/socket/ServerTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/ng/test/sockettest/ServerTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/ng/test/socket/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/ng/test/sockettest/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/ng/test/testtl.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/ng/test/testtl.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,17 +59,52 @@
       <file leaf-file-name="testtl.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/ng/test/testtl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="345">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fun_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/ng/test/fun_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/ng/test/sockettest/ServerTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#55#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="errertest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/ng/test/errertest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/ng/test/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="pyautoguitest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/pyautogui/pyautoguitest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -89,33 +129,6 @@
               <folding>
                 <element signature="e#19#31#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iter_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/ng/test/iter_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/ng/test/array_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testList.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/ng/test/testList.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -222,6 +235,21 @@
               <item name="pythontest" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontest" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ng" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythontest" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ng" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="sockettest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythontest" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="pyautogui" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -234,7 +262,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -267,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pyautoguitest">
+  <component name="RunManager" selected="Python.testtl">
     <configuration name="QueueTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="helloworld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -514,8 +542,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pyautoguitest" />
         <item itemvalue="Python.testtl" />
+        <item itemvalue="Python.pyautoguitest" />
         <item itemvalue="Python.url_test" />
         <item itemvalue="Python.timetest" />
         <item itemvalue="Python.QueueTest" />
@@ -621,11 +649,12 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14376321" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4063745" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934928" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38911024" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36653388" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36653388" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3089431" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -636,7 +665,6 @@
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,36 +675,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testadd" />
-    <option name="LAST_COMMIT_MESSAGE" value="testadd" />
+    <MESSAGE value="testtl" />
+    <option name="LAST_COMMIT_MESSAGE" value="testtl" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/ng/test/m1/test_m1.py" />
-    <entry file="file://$PROJECT_DIR$/com/ng/test/m1/test.py" />
-    <entry file="file://$PROJECT_DIR$/com/ng/test/m/m4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/ng/test/inputoutput/format_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/ng/test/inputoutput/serializable.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/ng/test/errer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -722,21 +733,7 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-1645354321/_socket.py" />
-    <entry file="file://$PROJECT_DIR$/com/ng/test/socket/ServerTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/ng/test/ThreadTest.py" />
-    <entry file="file://$PROJECT_DIR$/com/ng/test/socket/ClientTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/ng/test/m/m2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -840,13 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/ng/test/fun_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/ng/test/testList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -921,18 +911,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/pyautogui/pyautoguitest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python2.7/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#870#884#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../venv/lib/python2.7/site-packages/urllib3/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/ng/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/ng/test/errertest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/ng/test/sockettest/ServerTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#55#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/ng/test/sockettest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/ng/test/sockettest/ClientTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#55#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/ng/test/fun_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/com/ng/test/testtl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
