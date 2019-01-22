@@ -37,10 +37,10 @@ def startJvm(runjar, newjar):
 
 ## 提取jar链接
 while True:
-    time.sleep(300)
     readJarsLink(
         "http://192.168.20.6:8081/nexus/content/repositories/snapshots/com/orko/distribution/distribution-admin-web/0.0.1-SNAPSHOT/",
         '/home/www/app/distribution-admin', 'distribution-admin-web-0.0.1-SNAPSHOT.jar');
     readJarsLink(
         "http://192.168.20.6:8081/nexus/content/repositories/snapshots/com/orko/distribution/distribution-api/0.0.1-SNAPSHOT/",
         '/home/www/app/distribution-api', 'distribution-api-0.0.1-SNAPSHOT.jar');
+    time.sleep(300)
