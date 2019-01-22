@@ -80,11 +80,20 @@
       <file leaf-file-name="url_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/ng/test/inputoutput/url_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="300">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timetest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/ng/test/timetest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="46" selection-start-line="13" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -279,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.url_test">
+  <component name="RunManager" selected="Python.timetest">
     <configuration name="QueueTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="helloworld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -526,10 +535,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.timetest" />
         <item itemvalue="Python.url_test" />
         <item itemvalue="Python.testtl" />
         <item itemvalue="Python.pyautoguitest" />
-        <item itemvalue="Python.timetest" />
         <item itemvalue="Python.QueueTest" />
       </list>
     </recent_temporary>
@@ -615,7 +624,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548139096882</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="自动部署脚本">
+      <created>1548142014176</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1548142014176</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -654,11 +670,11 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14023961" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3997344" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2934927" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30278885" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30278885" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3089431" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -783,13 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/ng/test/timetest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -944,10 +953,17 @@
     <entry file="file://$PROJECT_DIR$/com/ng/test/FAQ-20057752_20160220.xml.review.docx.19ffa01d3ea441fbb23aeefbe63a74fb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/com/ng/test/timetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="46" selection-start-line="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/com/ng/test/inputoutput/url_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="300">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>

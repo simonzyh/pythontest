@@ -23,7 +23,7 @@ def readJarsLink(url, path, runjar):
     ##下载文件
     jarUrl = jarLinks[-1]
     os.system("wget -q " + jarUrl)
-    print('下载jar包:' + jarUrl)
+    print(' 下载jar包:' + jarUrl)
 
     startJvm(runjar, jarname)
     return jarLinks
@@ -37,10 +37,13 @@ def startJvm(runjar, newjar):
 
 ## 提取jar链接
 while True:
+    ticks = time.time()
+    print('开始自动部署：'+time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
     readJarsLink(
         "http://192.168.20.6:8081/nexus/content/repositories/snapshots/com/orko/distribution/distribution-admin-web/0.0.1-SNAPSHOT/",
         '/home/www/app/distribution-admin', 'distribution-admin-web-0.0.1-SNAPSHOT.jar');
     readJarsLink(
         "http://192.168.20.6:8081/nexus/content/repositories/snapshots/com/orko/distribution/distribution-api/0.0.1-SNAPSHOT/",
         '/home/www/app/distribution-api', 'distribution-api-0.0.1-SNAPSHOT.jar');
+    print('完成自动部署：'+time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
     time.sleep(300)
