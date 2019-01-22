@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f524a0fe-c55b-4151-96a0-3fcbbef6d0e0" name="Default" comment="testtl">
+    <list default="true" id="f524a0fe-c55b-4151-96a0-3fcbbef6d0e0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/ng/test/inputoutput/url_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/ng/test/inputoutput/url_test.py" afterDir="false" />
     </list>
@@ -77,16 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/ng/test/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="url_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/ng/test/inputoutput/url_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            <state relative-caret-position="238">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -108,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/com/ng/test/HelloWorld.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -599,7 +594,28 @@
       <option name="project" value="LOCAL" />
       <updated>1512631298975</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="自动部署脚本">
+      <created>1548138216265</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1548138216265</updated>
+    </task>
+    <task id="LOCAL-00009" summary="自动部署脚本">
+      <created>1548138325504</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1548138325504</updated>
+    </task>
+    <task id="LOCAL-00010" summary="自动部署脚本">
+      <created>1548139096881</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1548139096882</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -642,7 +658,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20318726" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30278885" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3089431" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -665,7 +681,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testadd" />
     <MESSAGE value="testtl" />
-    <option name="LAST_COMMIT_MESSAGE" value="testtl" />
+    <MESSAGE value="自动部署脚本" />
+    <option name="LAST_COMMIT_MESSAGE" value="自动部署脚本" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -673,7 +690,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/ml-20m/ratings.csv" />
     <entry file="file://$PROJECT_DIR$/com/ng/test/inputoutput/data.pkl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -904,7 +920,7 @@
     <entry file="file://$PROJECT_DIR$/com/ng/test/HelloWorld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -925,10 +941,13 @@
     <entry file="file://$PROJECT_DIR$/com/ng/test/inputoutput/format_test.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/com/ng/test/FAQ-20057752_20160220.xml.review.docx.19ffa01d3ea441fbb23aeefbe63a74fb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/com/ng/test/inputoutput/url_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        <state relative-caret-position="238">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>

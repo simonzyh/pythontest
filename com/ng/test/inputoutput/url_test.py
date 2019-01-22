@@ -22,7 +22,7 @@ def readJarsLink(url, path, runjar):
     os.chdir(path)
     ##下载文件
     jarUrl = jarLinks[-1]
-    os.system("wget " + jarUrl)
+    os.system("wget -q " + jarUrl)
     print('下载jar包:' + jarUrl)
 
     startJvm(runjar, jarname)
